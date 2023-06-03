@@ -4244,8 +4244,6 @@ body.is-touch #banner {
   input[type="button"],
   .button {
     padding : 0;
-    padding-left: 0.5rem;
-    padding-right:0.5rem;
   }
 
   /* Spotlight */
